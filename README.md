@@ -1,4 +1,4 @@
-# Database
+# Getting Started
 
 Il database mysql gestisce grandi quantità di dati collegati tra di loro. 
 La sua funzione è di contenere i dati in maniera ordinata per poter recuperarli e mostrarli all'utente quando li richiede.
